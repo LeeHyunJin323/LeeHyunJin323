@@ -80,9 +80,9 @@
 ## 📫 Contact
 
  이메일 주소: elwllsb2@naver.com
- <div>
+<br>
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeeHyunJin323)
-  </div>
+ 
 
 <br/>
 
